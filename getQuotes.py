@@ -8,8 +8,6 @@
 import urllib.request, re, string, sys
 
 
-
-
 def ProcessQuotes(strSymbols):
     #Accesses the Yahoo Finance stock database for the stock symbols entered
 
