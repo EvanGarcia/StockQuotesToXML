@@ -4,7 +4,6 @@
 #February 1st, 2017
 #This program accesses the Yahoo Finance stock database, and converts a symbol's data into XML format.
 
-
 import urllib.request, re, string, sys
 
 
